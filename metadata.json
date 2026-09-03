@@ -1,0 +1,6 @@
+{
+  "name": "Learn with Ms. Thúy",
+  "description": "Website học tiếng Anh Lớp 7 Unit 1: My Hobbies cùng Cô Thúy - Lý thuyết từ vựng có phát âm audio, ngữ pháp thì Hiện tại đơn và 60 câu bài tập tương tác chấm điểm tự động theo thang điểm 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
